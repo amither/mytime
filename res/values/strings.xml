@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">mytime</string>
+    <string name="action_task">Tasks</string>
+    <string name="edit_message">Please enter a string</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_display_message">My Message</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_statistics">statistics</string>
+    <string name="action_settings">setting</string>
+    <string name="work">work</string>
+	<string name="rest">rest</string>
+	<string name="MytimeDatabase_onCreate">"CREATE TABLE taskNames (_id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT);"</string>
+	<string name="MytimeDatabase_onUpgrade">"DROP TABLE IF EXISTS taskNames;"</string>
+	<string name="start">start</string>
+	<string name="stop">stop</string>
+	<string name="setting">setting</string>
+	<string name="graph">graph</string>
+	<string name="list">list</string>
+	<string name="newRecord">newRecord</string>
+</resources>

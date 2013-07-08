@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    
+    <item
+        android:id="@+id/action_statistics"
+        android:orderInCategory="0"
+        android:showAsAction="always|withText"
+        android:title="@string/action_statistics">
+    </item>
+    
+    <item
+        android:id="@+id/action_task"
+        android:orderInCategory="1"
+        android:showAsAction="always|withText"
+        android:title="@string/action_task"/>
+    
+    <item 
+        android:id="@+id/action_newRecord"
+        android:orderInCategory="2"
+        android:showAsAction="always|withText"
+        android:title="@string/newRecord" />
+
+</menu>
